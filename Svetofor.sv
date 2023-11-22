@@ -39,7 +39,6 @@ parameter TIME_STATE_2 = 5;     // 10 тактов
 parameter TIME_STATE_3 = 15;    // 100 тактов
 parameter TIME_STATE_4 = 5;     // 10 тактов
 parameter TIME_STATE_5 = 5;     // 10 тактов
-parameter TIME_STATE_6 = 15;    // 100 тактов
 
 // Устанавливаем начальное состояние системы светофоров как STATE_0
 state_t state = STATE_0;
